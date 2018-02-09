@@ -1,10 +1,11 @@
 # eject4win - eject(1) for Windows
 
 [eject(1)](http://man7.org/linux/man-pages/man1/eject.1.html) for
-Windows (not completely compatible).
+Windows (not completely compatible). For now, this supports only
+optical disk drive.
 
-This utility should work on Windows NT or above (I tested on Windows 7
-x64). Windows 9x is not supported.
+This should work on Windows NT or above (I tested on Windows 7 x64).
+Windows 9x is not supported.
 
 
 ## Usage
